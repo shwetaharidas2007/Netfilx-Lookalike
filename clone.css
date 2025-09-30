@@ -1,0 +1,77 @@
+
+
+img{
+    height: 45px;
+    width: 150x;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url('netflix-brand-hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+nav{
+    display: inline-block;
+   
+    position: sticky;
+    top: 0px;
+}
+select{
+    background-color: black;
+    border-radius: 5px;
+    border-color: aliceblue;
+    color: white;
+    height: 25px;
+    width: 100px;
+    margin-left: 850px;
+}
+button{
+    margin-left: 30px;
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: rgb(100, 1, 1);
+    text-decoration: none;
+}
+pre{
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:900;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+     display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+input{
+    height: 40px;
+    width: 300px;
+    background-color: black;
+    border-color: white;
+    border-radius: 5px;
+    margin-left: 500px;
+    color: aliceblue;
+}
+#b2{
+    height: 45px;
+    width: 200px;
+    border-radius: 6px;
+    
+}
